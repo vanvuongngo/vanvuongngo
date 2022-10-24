@@ -5,7 +5,7 @@ My journey with Computers started in the 80s when I got my first PC, an Amstrad 
 
 <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Amstrad_CPC464.jpg" title="Amstrad CPC464 on wikipedia" />
 
-Then one day the cable of the monitor, which is connected to the computer, had a loose contact. I looked for a screwdriver and open the monitor. That was my second wow ... this is what it looks like from the inside.
+Then one day the cable of the monitor, which is connected to the computer, had a loose contact. I looked for a screwdriver and opened the monitor. That was my second wow ... this is what it looks like from the inside.
 
 <!--
 **vanvuongngo/vanvuongngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
