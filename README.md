@@ -1,5 +1,7 @@
 # ✨ Van Vuong Ngo
 
+**`Analog and digital craftsman`**
+
 Hi, I am a Full-Stack developer and interested in developing applications, infrastructure- and hardware-topics.
 My journey with Computers started in the 80s when I got my first PC, an Amstrad CPC464. With this 8-bit Computer I learned the BASIC ;) of a developer's skill -> I `copy & paste` a code from a computer magazine tutorial which then transformed into a game. That was a kind of mindblowing to me ...
 
