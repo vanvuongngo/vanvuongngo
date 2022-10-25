@@ -52,10 +52,10 @@ Hi, I am a Full-Stack developer and interested in developing applications, infra
 
 ## IoT
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank">
+<a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino logo" />
 </a>
-<a href="https://www.raspberrypi.com/" target="_blank">
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi logo" />
 </a>
 </p>
