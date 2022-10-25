@@ -13,8 +13,6 @@ Then one day the cable of the monitor, which is connected to the computer, had a
   <figcaption>Fig.1 - Amstrad from wikipedia</figcaption>
 </figure>
 
----
-
 ## 🧰 Languages and Tools 
 
 <p align="left">
