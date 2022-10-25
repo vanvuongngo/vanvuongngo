@@ -7,7 +7,6 @@ Hi, I am a Full-Stack developer and interested in developing applications, infra
 ## 🧰 Languages and Tools 
 
 <p align="left">
-<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="Apple logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="linux shell logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++ logo" />
@@ -33,7 +32,6 @@ Hi, I am a Full-Stack developer and interested in developing applications, infra
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="nodejs logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title=" logo" title="npm logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql logo" />
-<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="redis logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="rust logo" />
@@ -50,6 +48,12 @@ Hi, I am a Full-Stack developer and interested in developing applications, infra
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome browser logo" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" title="firefox logo" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" title="safari logo" />
+</p>
+
+## IoT
+<p align="left">
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino logo" />
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi logo" />
 </p>
 
 <details>
