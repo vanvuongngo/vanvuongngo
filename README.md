@@ -3,11 +3,17 @@
 **`Analog and digital craftsman`**
 
 Hi, I am a Full-Stack developer and interested in developing applications, infrastructure- and hardware-topics.
-My journey with Computers started in the 80s when I got my first PC, an Amstrad CPC464. With this 8-bit Computer I learned the BASIC ;) of a developer's skill -> I `copy & paste` a code from a computer magazine tutorial which then transformed into a game. That was a kind of mindblowing to me ...
 
-<img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Amstrad_CPC464.jpg" title="Amstrad CPC464 on wikipedia" />
+My journey with Computers started in the 80s when I got my first PC, an Amstrad CPC464. With this 8-bit Computer I learned the BASIC ;) of a developer's skill -> I `copy & paste` a code from a computer magazine tutorial which then transformed into a game. That was a kind of mindblowing to me.
 
 Then one day the cable of the monitor, which is connected to the computer, had a loose contact. I looked for a screwdriver and opened the monitor. That was my second wow ... this is what it looks like from the inside.
+
+<figure>
+  <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Amstrad_CPC464.jpg" title="Amstrad CPC464 on wikipedia" />
+  <figcaption>Fig.1 - Amstrad from wikipedia</figcaption>
+</figure>
+
+---
 
 ## 🧰 Languages and Tools 
 
