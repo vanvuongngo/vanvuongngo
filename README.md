@@ -2,7 +2,7 @@
 
 **`Analog and digital craftsman`**
 
-Hi, I am a Full-Stack developer and interested in developing applications, infrastructure- and hardware-topics.
+Hi, I am a developer and interested in developing applications, infrastructure- and hardware-topics.
 
 ## 🧰 Languages and Tools 
 
