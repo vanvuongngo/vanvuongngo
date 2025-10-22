@@ -42,8 +42,9 @@ Hi, I am a developer and interested in developing applications, infrastructure- 
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="visualstudio logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="prometheus logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" title="tauri logo" />
-<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talos/talos-original.svg" title="tauri logo" />
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/talos/talos-original.svg" title="talos logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="astro logo" />
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" title="tailwind logo" />
 </p>
 
 ## Browsers
