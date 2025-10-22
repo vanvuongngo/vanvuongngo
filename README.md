@@ -5,6 +5,7 @@
 Hi, I am a developer and interested in developing applications, infrastructure- and hardware-topics.
 
 ## 🧰 Languages and Tools 
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 <p align="left">
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="Apple logo" />
@@ -40,6 +41,7 @@ Hi, I am a developer and interested in developing applications, infrastructure- 
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="ubuntu logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="visualstudio logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="prometheus logo" />
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" title="tauri logo" />
 <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="astro logo" />
 </p>
 
